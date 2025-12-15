@@ -16,4 +16,4 @@ GitHub не рендерит iframe в README.md, поэтому ниже при
 | 08 | Взаимосвязь опыта работы и возраста соискателей | [Открыть](https://egorchik44.github.io/Skillfactory/plotly/08_work_exp_age_scat.html)|
 | 09 | Количество резюме по признаку пола | [Открыть](https://egorchik44.github.io/Skillfactory/plotly/09_pie.html)|
 | 10 | Распределение желаемой заработной платы и возраста соискателей в зависимости от пола | [Открыть](https://egorchik44.github.io/Skillfactory/plotly/10_scatter.html)|
-| 11 | Распределение возрастов с линиями "-3 сигма", "Среднее", "+3 сигма  [Открыть](https://egorchik44.github.io/Skillfactory/plotly/11_age_distribution.html)|
+| 11 | Распределение возрастов с линиями "-3 сигма", "Среднее", "+3 сигма | [Открыть](https://egorchik44.github.io/Skillfactory/plotly/11_age_distribution.html)|
