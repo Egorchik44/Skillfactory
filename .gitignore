@@ -48,9 +48,5 @@ Thumbs.db
 htmlcov/
 
 # Data files (uncomment if you don't want to track data)
-# data/
-*.csv
-
-# Plotly outputs
-plotly/*.html
+data/
 
